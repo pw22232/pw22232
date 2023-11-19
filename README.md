@@ -1,5 +1,5 @@
-# Hi there! 大家好👋
-###  This is George.
+# Hi there! 大家好!
+### 👋 This is George.
 ### 💬 English, Mandarin（中文) are all acceptable for me.
 ### 🔭 I’m a second year Computer Science student at university of Bristol. 
 ### 🧐 My research interest is algorithm design
