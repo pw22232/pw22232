@@ -9,9 +9,6 @@
 
 [![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=pw22232&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![George's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pw22232&show_icons=true&count_private=true&theme=gotham)
+![George's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=pw22232&show_icons=true&count_private=true&theme=gotham)
 
-<!--<div style = " display:none">
-![George's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pw22232&layout=compact&hide_border=false&langs_count=10)
-</div> -->
 
